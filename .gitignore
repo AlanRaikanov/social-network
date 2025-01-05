@@ -1,0 +1,20 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# User-specific files
+*.swp
+*.swo
+*.bak
+
+# IntelliJ project-specific settings
+.idea/modules.xml
+.idea/workspace.xml
+.idea/dictionaries/
+.idea/vcs.xml
+.idea/libraries/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
